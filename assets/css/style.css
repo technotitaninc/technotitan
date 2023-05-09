@@ -5237,11 +5237,7 @@ Contact Area CSS
 /*================================================
 Map Area CSS
 =================================================*/
-.contact-map iframe {
-  border: none;
-  width: 100%;
-  height: 450px;
-}
+
 
 /*================================================
 Services Details Area CSS
